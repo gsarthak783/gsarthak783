@@ -14,7 +14,7 @@ A movie streaming app with custom add-ons, torrent streaming, and TMDB integrati
 ### 🌟 [ShowCaze - Portfolio builder](https://showcaze.vercel.app/)  
 Showcasing my work, projects, and resume generator.
 
-### 🧑‍🤝‍🧑 [CareerForge - Job Portal)](https://career-forge-portal.vercel.app/)
+### 🧑‍🤝‍🧑 [CareerForge - Job Portal](https://career-forge-portal.vercel.app/)
 
 
 ---
@@ -57,5 +57,5 @@ Showcasing my work, projects, and resume generator.
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sarthk/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio-link.com](https://user-portfolio-alpha.vercel.app/gsarthak783@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthk/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://user-portfolio-alpha.vercel.app/gsarthak783@gmail.com)
