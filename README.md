@@ -8,14 +8,14 @@ A passionate **MERN Stack Developer** focused on building dynamic and scalable w
 
 ## 🌐 Live Web Applications  
 
-### 🎬 [MovieHub (In Progress)](https://your-moviehub-link.com)  
+### 🎬 [MovieHub (In Progress)]
 A movie streaming app with custom add-ons, torrent streaming, and TMDB integration.
 
-### 🧑‍🤝‍🧑 [Couple Connect (Private Beta)]  
-A private social space for couples to share moods, messages, important dates, and more.
-
-### 🌟 [My Portfolio](https://your-portfolio-link.com)  
+### 🌟 [ShowCaze - Portfolio builder](https://showcaze.vercel.app/)  
 Showcasing my work, projects, and resume generator.
+
+### 🧑‍🤝‍🧑 [CareerForge - Job Portal)](https://career-forge-portal.vercel.app/)
+
 
 ---
 
@@ -32,18 +32,14 @@ Showcasing my work, projects, and resume generator.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-FACC15?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Other Skills:**  
@@ -54,12 +50,12 @@ Showcasing my work, projects, and resume generator.
 
 ## 📊 GitHub Stats  
 
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarthakGoel&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SarthakGoel&&theme=radical)](https://git.io/streak-stats)
+![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsarthak783&show_icons=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=gsarthak783&&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sarthk/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio-link.com](https://user-portfolio-alpha.vercel.app/gsarthak783@gmail.com)
