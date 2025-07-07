@@ -3,8 +3,8 @@
 ## 🚀 About Me  
 A passionate **MERN Stack Developer** focused on building dynamic and scalable web and mobile applications. I specialize in **React.js**, **React Native**, and **Node.js**, with a strong interest in **system design**, **authentication systems**, and **cloud deployments**.
 
-- 🔭 Currently working on a **couple-based social app**, a real-time **movie streaming app**, and a **portfolio & resume builder**, all designed to improve daily life experiences with meaningful technology.
-- 🌱 Actively learning **Redis**, **GraphQL**, and improving cloud & serverless deployment workflows on **AWS EC2** and **Firebase**.
+- 🔭 Currently working on a real-time **movie streaming app**, and a **portfolio & resume builder**, all designed to improve daily life experiences with meaningful technology.
+- 🌱 Actively learning **Redis**, **React-Native**, **Devops** and improving cloud & serverless deployment workflows on **AWS EC2** and **Firebase**.
 
 ## 🌐 Live Web Applications  
 
