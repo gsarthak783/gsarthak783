@@ -65,8 +65,8 @@
 
 ## 📊 GitHub Stats
 
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsarthak783&show_icons=true&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gsarthak783&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Sarthak's GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
